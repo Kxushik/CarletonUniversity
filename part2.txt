@@ -1,0 +1,23 @@
+2.1	 Convert the decimal number 193 to binary.
+
+193-2^7=65
+65-2^6-2^0=0
+XX76543210
+0b11000001
+
+Converted it is 0b11000001.
+
+2.2	 Convert the binary number 0b1001101 to decimal.
+
+XX6543210
+0b1001101
+
+2^6=64
+2^3=8
+2^2=4
+2^0=1
+64+8+4+1
+=77
+
+Converted it is 77.
+
